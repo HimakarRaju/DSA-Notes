@@ -1,0 +1,20 @@
+.navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	/* background-color: rgb(10, 134, 172); */
+}
+
+body {
+	font-size: 2em;
+	padding: 50px;
+	display: flexbox;
+	flex-wrap: wrap;
+	background: linear-gradient(to left, #edddff 0%, #08d0e6 100%);
+}
+
+.heading > article {
+	font-size: 25px;
+	line-height: 40px;
+}
